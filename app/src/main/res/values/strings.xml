@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UMGEncuesta</string>
+    <string name="nombre">Nombre</string>
+    <string name="experiencia">Años de Experiencia</string>
+</resources>
